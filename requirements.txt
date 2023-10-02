@@ -1,2 +1,4 @@
 azureml-sdk
 argparse
+pandas
+scikit-learn
