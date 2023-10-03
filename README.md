@@ -8,7 +8,7 @@ This shows the use of
 * pandas
 * sklearn
 
-STEP 1 : Clone the repo
-STEP 2 : Download the config.json from AzureML studio portal(Web) to the cloned directory
-STEP 3 : One Can use the azureml_setup.py to create compute resources
-STEP 4 : Run the run run_experiment.py to start the experiment 
+STEP 1 : Clone the repo \n
+STEP 2 : Download the config.json from AzureML studio portal(Web) to the cloned directory \n
+STEP 3 : One Can use the azureml_setup.py to create compute resources \n
+STEP 4 : Run the run run_experiment.py to start the experiment \n
