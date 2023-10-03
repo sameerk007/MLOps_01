@@ -45,7 +45,7 @@ def main():
             ws = Workspace.from_config()
             cpu_cluster = ComputeTarget(workspace=ws, name=cpu_cluster_name)
             cpu_cluster.delete()
-            pprint(f"{cpu_cluster_name} is deleted.")
+            pprint(f"{cpu_cluster_name} is beign deleted.")
         except ComputeTargetException as e:
             print(e.message)
 
